@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="PANEL.master.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Inicio Sesion</title>
+    <asp:ContentPlaceHolder ID="cphCabecera" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmMaster" runat="server">
+        <header>
+            <div id="idUsuario" runat="server">
+                
+            </div>
+        </header>
+    <div class="container">
+        <asp:ContentPlaceHolder ID="cphContendo" runat="server">    
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <footer>
+        <div>
+            <p>
+                  Copyright © 2018 DUMACO - Todos los Derechos Reservados.
+            </p>
+        </div>
+    </footer>
+      <asp:ContentPlaceHolder ID="cphPie" runat="server">    
+        </asp:ContentPlaceHolder>
+</body>
+</html>

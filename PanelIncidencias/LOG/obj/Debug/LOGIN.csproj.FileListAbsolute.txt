@@ -1,0 +1,13 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\ApplicationInsights.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\LOGIN.dll.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\LOGIN.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\LOGIN.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\bin\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\obj\Debug\LOGIN.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\LOG\obj\Debug\LOGIN.pdb

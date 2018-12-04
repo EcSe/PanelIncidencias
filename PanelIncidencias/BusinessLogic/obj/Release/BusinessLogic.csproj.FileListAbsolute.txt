@@ -1,0 +1,9 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\bin\Release\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessLogic\obj\Release\BusinessLogic.pdb

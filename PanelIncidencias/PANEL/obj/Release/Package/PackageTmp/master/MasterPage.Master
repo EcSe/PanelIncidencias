@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="PANEL.master.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="cphCabecera" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/master.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../Content/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="frmMaster" runat="server">
+        <header>
+            <div id="idUsuario" runat="server" class="float-right">
+                <ul>
+                    <li class="dropdown">
+                        <a href="#" >
+                            <span>Bienvenid@</span>
+                            <strong id="lblUsuario" runat="server">Nombre</strong>
+                        </a>
+                        <ul >
+                            <li>
+                               <div>
+                                  <asp:LinkButton id="lbtInicio"  runat="server"><span class="fa fa-sign-in">Inicio</span></asp:LinkButton>
+                               </div>
+                            </li>
+                            <li>
+                                <div>
+                                  <%--  <<  ID="btnCerrar" Text="Cerrar Sesion" runat="server" OnClick="btnCerrar_Click1"/>--%>
+                                  <asp:LinkButton id="lnkButtonSalir" runat="server" OnClick="lnkButtonSalir_Click"><span class="fa-sign-out">Salir</span></asp:LinkButton>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </header>
+    <div class="container">
+        <asp:ContentPlaceHolder ID="cphContenido"  runat="server">    
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <footer class="PiePagina">
+        <div class="PiePagina" >
+            <p>
+                  Copyright © 2018 DUMACO - Todos los Derechos Reservados.
+            </p>
+        </div>
+    </footer>
+      <asp:ContentPlaceHolder ID="cphPie" runat="server">    
+        </asp:ContentPlaceHolder>
+    <script src="../scripts/jquery-3.0.0.js"></script>
+    <script src="../scripts/bootstrap.js"></script>
+    <script src="../js/frmRespuesta.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\ApplicationInsights.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\PANEL.dll.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\PANEL.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\PANEL.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\bin\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\obj\Debug\PANEL.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\obj\Debug\PANEL.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\PANEL\obj\Debug\PANEL.pdb

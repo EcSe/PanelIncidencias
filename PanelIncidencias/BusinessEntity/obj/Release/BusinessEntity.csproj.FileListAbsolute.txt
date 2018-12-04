@@ -1,0 +1,4 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessEntity\bin\Release\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessEntity\bin\Release\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessEntity\obj\Release\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\BusinessEntity\obj\Release\BusinessEntity.pdb
