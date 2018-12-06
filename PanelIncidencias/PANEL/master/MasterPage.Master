@@ -8,9 +8,11 @@
     <title></title>
     <asp:ContentPlaceHolder ID="cphCabecera" runat="server">
     </asp:ContentPlaceHolder>
-    <link href="../css/master.css" rel="stylesheet" />
-    <link href="../Content/bootstrap.css" rel="stylesheet" />
-    <link href="../Content/font-awesome.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-grid.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-reboot.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="../Estilos/Panel.css" rel="stylesheet" />
 </head>
 <body>
     <form id="frmMaster" runat="server">
@@ -44,19 +46,19 @@
         </asp:ContentPlaceHolder>
     </div>
     </form>
-    <footer class="card-footer text-xl-center text-muted">
-        <div class="modal-footer text-center py-3" >
-            <p>
-                  Copyright © 2018 DUMACO - Todos los Derechos Reservados.
+    <footer class="PiePagina">
+        <div class="text-center py-3">
+            <p class="text-white">
+                Copyright © 2018 DUMACO - Todos los Derechos Reservados.
             </p>
         </div>
     </footer>
       <asp:ContentPlaceHolder ID="cphPie" runat="server">    
         </asp:ContentPlaceHolder>
-    <script src="../scripts/jquery-3.0.0.js"></script>
-    <script src="../scripts/bootstrap.js"></script>
-    <script src="../js/frmRespuesta.js"></script>
-    <script src="../scripts/esm/popper.js"></script>
-    <script src="../scripts/umd/popper.js"></script>
+    <script src="../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/popper-utils.min.js"></script>
+    <script src="../Scripts/popper.min.js"></script>
 </body>
 </html>

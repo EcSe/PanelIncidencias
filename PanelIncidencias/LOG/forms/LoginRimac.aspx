@@ -6,28 +6,38 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Login RIMAC</title>
-    <link rel="stylesheet" href="../Estilos/css/base.css"/>
-	<link rel="stylesheet" href="../Estilos/css/skeleton.css"/>
-	<link rel="stylesheet" href="../Estilos/css/layout.css"/>
+    <link href="../UTILITARIOS/Login.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-grid.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-reboot.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/font-awesome.min.css" rel="stylesheet" />
+    
 </head>
-<body>
+<body class="main">
     <div class="container">
         <div class="form-bg">
-    <form id="form1" runat="server">
-    <h2>Inicio de Sesion</h2>
-				<%--<p><input type="text" placeholder="Usuario" id="txtUsuario" runat="server"/></p>
-				<p><input type="password" placeholder="Password" id="txtPassword" runat="server"/></p>--%>
-        <p><asp:TextBox ID="txtUsuario" type="text" placeholder ="Usuario" runat="server"></asp:TextBox></p>
-        <p><asp:TextBox ID="txtPassword" type="password" placeholder ="Contraseña" runat="server"></asp:TextBox></p>
-				<label for="remember">
-				  <input type="checkbox" id="remember" value="remember" />
-				  <span>Remember me on this computer</span>
-				</label>
-                <asp:Button id="btnLogin" CssClass="button" runat="server" OnClick="txtLogin_Click"/>
-           </form>     
+            <form id="form1" runat="server">
+                <h2>Inicio de Sesion</h2>
+                <p>
+                    <asp:TextBox ID="txtUsuario" type="text" placeholder="Usuario" runat="server"></asp:TextBox></p>
+                <p>
+                    <asp:TextBox ID="txtPassword" type="password" placeholder="Contraseña" runat="server"></asp:TextBox></p>
+                <label for="remember">
+                    <input type="checkbox" id="remember" value="remember" />
+                    <span>Remember me on this computer</span>
+                </label>
+                <asp:Button ID="btnLogin" CssClass="button" runat="server" OnClick="txtLogin_Click" />
+            </form>
         </div>
-     </div>
-      <script src="../js/jquery-1.5.1.min.js"></script>
-	  <script src="../js/app.js"></script>
+    </div>
+
+<script src="../UTILITARIOS/Login.js"></script>
+   
+    <script src="../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Scripts/jquery-3.0.0.slim.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+   <%-- <script src="../Scripts/popper-utils.min.js"></script>
+    <script src="../Scripts/popper.min.js"></script>--%>
 </body> 
 </html>

@@ -35,3 +35,4 @@ C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\DataAccess\bin\Debug\DataAccess.pdb
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\PanelIncidencias\PanelIncidencias\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
